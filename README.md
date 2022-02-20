@@ -9,8 +9,11 @@ Rather than using turtle module using physics libraries such as pymunk or pygame
 
 Different visualizations divided into:
   -High School Physics
+  
   -High School Mathematics
+  
   -Advanced Physics
+  
   -Advanced Mathematics
 
 
