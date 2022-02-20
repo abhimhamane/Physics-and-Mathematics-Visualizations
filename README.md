@@ -8,6 +8,7 @@ Initial ones are quite basic but still I am including them.
 Rather than using turtle module using physics libraries such as pymunk or pygame would have been better.
 
 Different visualizations divided into:
+
   -High School Physics
   
   -High School Mathematics
