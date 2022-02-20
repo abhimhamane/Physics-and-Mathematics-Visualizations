@@ -5,4 +5,18 @@ I am now structuring the code written earlier and presenting in form of this Git
 I will be adding new visualizations as and when I create new ones.
 Initial ones are quite basic but still I am including them.
 
+Rather than using turtle module using physics libraries such as pymunk or pygame would have been better.
+
+Different visualizations divided into:
+  -High School Physics
+  -High School Mathematics
+  -Advanced Physics
+  -Advanced Mathematics
+
+
+
+
+
+
+
 Feel Free to use any of the code and suggest improvements.
